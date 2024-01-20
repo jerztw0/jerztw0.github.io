@@ -1,0 +1,119 @@
+body {
+	background: linear-gradient(45deg,
+		#EECFBA,
+		#C5DDE8);
+	opacity: 0.9;
+}
+
+header {
+    height: 20vh; width: 100%; border: 2px solid rgb(202, 100, 50)"
+}
+.layour-50 {}
+
+.layour-50-left {
+    clear: both;
+    float: left;
+	margin: 100vh;
+	
+}
+.layout-50-right {
+    float: right;
+    width: 48%;
+		padding: 0px;
+			color: #E0E0E0;
+			margin-top: 0vh;
+			font-weight: normal;
+			margin-bottom: 5vh;
+			margin-left: 10vh;
+			font-family: 'Open Sans', Arial;
+}
+.header-menu-phone a{
+	text-decoration: none;
+	font-size: 12px;
+		padding: 0px;
+		color: #000000;
+		margin-top: 1vh;
+		font-weight: normal;
+		margin-bottom: 5vh;
+		margin-left: 10vh;
+		font-family: 'Open Sans', Arial;
+}
+.header h1,
+p {
+	font-size: 12px;
+	padding: 0px;
+	color: #000000;
+	margin-top: 1vh;
+	font-weight: normal;
+	margin-bottom: 5vh;
+	margin-left: 10vh;
+	font-family: 'Open Sans', Arial;
+	
+	
+}
+
+
+        div.header
+	{
+		top:-1px;
+		height:20vh;
+		margin-top:2vh;
+		padding-top: 2px;
+		padding-bottom: 0vh;
+		
+	}
+                		div.header h1 {
+                		    font-size: 40px;
+                		    font-weight: 300;
+                		    margin-bottom: 0px;
+                		    letter-spacing: 1px;
+                		}
+.main-info-nav {
+	height: 65vh;
+}
+.main-nav ul {
+	margin: 5vh;
+		padding: 2vh;
+	height: 7vh;
+		width: 25vh;
+		border: 0px solid rgb(52, 20, 10);
+		background: rgb(255, 255, 255);
+		float: left;
+						color: #000000;
+						margin-top: 10px;
+						font-weight: normal;
+						margin-bottom: 10px;
+						font-family: 'Open Sans', Arial;
+}
+
+.main-menu-view {
+		float: left;
+}
+.main-menu-view article {
+	padding: 1vh;
+		margin: 6vh;
+				float: left;
+				margin: 0 1.5%;
+				width: 29%;
+
+}
+.main-menu-view h3 {
+	color: #000000;
+		justify-content: center;
+		font-weight: normal;
+		font-family: 'Open Sans', Arial;
+}
+.footer-contact {
+	height: 10vh;
+}
+.footer-elements {
+	display: flex;
+	justify-content: center;
+}
+.footer-contact a {
+	font-size: 6vh;
+			margin: 7px;
+				margin-right: 2vh;
+				margin-left: 3vh;
+				font-family: 'Open Sans', Arial;
+}
